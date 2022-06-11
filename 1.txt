@@ -1,1 +1,12 @@
-阿斯蒂芬
+第一次：
+
+git init 
+git remote add origin <address>
+
+git add .
+git commit -m "update code"
+
+git push 
+
+git push --set-upstream origin master
+
